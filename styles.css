@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background-color: #333;
+    background-color: rgb(19, 218, 245);
     color: #fff;
     padding: 20px;
     display: flex;
@@ -41,7 +41,7 @@ main {
 }
 
 footer {
-    background-color: #333;
+    background-color: rgb(21, 6, 243);
     color: #fff;
     text-align: center;
     padding: 5px;
@@ -90,4 +90,16 @@ button {
 
 button:hover {
     background-color: #2bd634;
+}
+
+p {
+    line-height: 30px;
+}
+
+#yinyong_url {
+    color: red;
+}
+
+img {
+    text-align: center;
 }
